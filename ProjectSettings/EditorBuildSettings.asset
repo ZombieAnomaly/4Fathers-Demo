@@ -6,13 +6,13 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 0
-    path: Assets/Scenes/Fusion FPS/MainMenu.unity
+    path: Assets/Scenes/FusionFPS/MainMenu.unity
     guid: 0d3b40ecff110444e9d1162e4759a437
   - enabled: 0
-    path: Assets/Scenes/Fusion FPS/Deathmatch.unity
+    path: Assets/Scenes/FusionFPS/Deathmatch.unity
     guid: eda0b8fb7e8c03642a26d0c819eb1630
   - enabled: 0
-    path: Assets/Scenes/Fusion FPS/Sandbox.unity
+    path: Assets/Scenes/FusionFPS/Sandbox.unity
     guid: 03bc87585d3f0244bb195210f01cd084
   - enabled: 1
     path: Assets/Scenes/MainMenu.unity
